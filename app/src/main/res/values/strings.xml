@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="save">Save</string>
+    <string name="name"></string>
+    <string name="topText"></string>
+    <string name="bottonText"></string>
+    <string name="bottomText">bottomText</string>
+    <string name="phone"></string>
+    <string name="email"></string>
+</resources>
